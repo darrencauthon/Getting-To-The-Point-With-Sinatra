@@ -28,4 +28,4 @@
 
 * Have seen Sinatra applications run
 * Be able to build a website with Sinatra
-* Fall in love with Sinatra (hopefully)
+* Have fallen in love with Sinatra
