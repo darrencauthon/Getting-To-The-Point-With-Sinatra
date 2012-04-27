@@ -1,0 +1,58 @@
+Routes ->
+  get
+  post
+  put
+  delete
+  patch
+  options
+
+get '/' do
+get '/hello/:name'
+get '/say/*/to/*'  ==> params[:splat]
+get '/download/*.*' do |path, ext|
+
+get '/posts.?:format?' do
+end
+
+Setting status codes
+  status 404
+  halt 404
+
+Setting headers
+  headers = {"Darren" => "TESTING"}
+
+Return views
+  inline views __END__  @@index  content
+  erb :index
+  erb :index, :layout => "another"
+
+Redirects
+  redirect 'http://google.com', 'testing'
+  redirect to('/bar'), 303
+  redirect back
+
+Session
+  enable :sessions
+  session[:secret] = 'lskdjflksdj'
+
+Sending files
+  get '/' do
+    send_file 'foo.png'
+  end
+
+Request object
+  request.host
+  request.referrer
+  request.user_agent
+  request.cookies
+  request.ip
+  request.url
+
+Filters
+  before do
+    request
+  end
+
+  after do
+    response
+  end

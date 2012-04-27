@@ -17,13 +17,6 @@
 * I want to share Sinatra
 
 !SLIDE bullets incremental
-# What I Want To Use #
-
-* I love the Sinatra approach
-* It changed my outlook on web development
-* Sinatra turned me into a Rubyist
-
-!SLIDE bullets incremental
 # When You Leave Here You Will... #
 
 * Have seen Sinatra applications run

@@ -4,7 +4,7 @@
 !SLIDE bullets incremental
 # A DSL for building websites #
 
-* and that's it
+* and that's all
 
 !SLIDE bullets incremental
 # Sinatra is not... #
@@ -16,5 +16,9 @@
 !SLIDE bullets incremental
 # Sinatra... #
 
-* 
-* is about 2000-3000 lines of code
+* is about 2K-3K lines of code...
+* written to match the "domain language" of a website...
+* and to run on top of Rack.
+
+!SLIDE bullets incremental
+# Let's try it out #
