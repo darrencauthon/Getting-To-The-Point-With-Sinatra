@@ -1,1 +1,1 @@
-{ "name": "Getting To the Point With Sinatra", "sections": [ {"section":"beginning"}, {"section":"sinatra"} ]}
+{ "name": "Getting To the Point With Sinatra", "sections": [ {"section":"beginning"}, {"section":"sinatra"}, {"section":"after_sinatra"}, {"section":"end"} ]}

@@ -14,7 +14,7 @@
 * I love the Sinatra approach
 * It changed my outlook on web development
 * Sinatra turned me into a Rubyist
-* I want to share Sinatra
+* I wanted to learn Sinatra
 
 !SLIDE bullets incremental
 # When You Leave Here You Will... #
