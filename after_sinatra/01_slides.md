@@ -1,4 +1,4 @@
-!SLIDE 
+!SLIDE bullets incremental
 # Wow, Sinatra Looks Great! #
 
 * Simple
