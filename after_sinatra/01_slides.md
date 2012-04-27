@@ -40,14 +40,3 @@ P: kcdc2012
 ![KCDC](kcdc.png "KCDC")
 
 ^^^
-
-
-
-
-
-!SLIDE bullets
-
-* bit.ly/kcdc2012
-* A: kcdc2012
-* U: darrencauthon@hotmail.com
-* P: kcdc2012
