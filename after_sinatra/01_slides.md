@@ -25,7 +25,7 @@
 !SLIDE
 # Let's look at a real app #
 
-bit.ly/kcdc2012
+bit.ly/sinatrakcdc
 ---------------
 
 A: kcdc2012
